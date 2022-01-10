@@ -33,14 +33,14 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=amankumar11.specter25)
 <br />
 
-Hi, I'm Aman Kumar a Computer science freak. I am a Frontend Web Developer 🚀 from India. Currently holding contributing to Girlscript Winter of Contribution 2021 and interning with [Pathshala](https://github.com/orgs/Pathshalaonweb/dashboard) as a Web Developer. Technical Head for the event 🙍🏽‍♂️ [J.AR.VIS](https://www.instagram.com/owasp_tiet/?hl=en) , Core Member at [OWASP-TIET](https://github.com/orgs/OWASP-STUDENT-CHAPTER/dashboard), Tech Team member at [SAIC-TIET](https://github.com/StudentAluminiInteractionCell) and Member of Technical and Software Department in [GirlScript](https://github.com/girlscript) . Beside's programming, I enjoy playing and producing music .
+Hi, I'm Aman Kumar a Computer science freak. I am a Frontend Web Developer 🚀 from India. Currently learing Nodejs and DSA. Technical Head for the event [HackOwasp 4.0] ,Technical Head for the event 🙍🏽‍♂️ [J.AR.VIS](https://www.instagram.com/owasp_tiet/?hl=en) , Core Member at [OWASP-TIET](https://github.com/orgs/OWASP-STUDENT-CHAPTER/dashboard), Tech Team member at [SAIC-TIET](https://github.com/StudentAluminiInteractionCell) and Member of Technical and Software Department in [GirlScript](https://github.com/girlscript) . Beside's programming, I enjoy playing and producing music .
 
 <img width="380" align="right" alt="GIF" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"  />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Pathshala](https://github.com/orgs/Pathshalaonweb/dashboard);
-- 🌱 I’m currently learning ReactJs , Data Structures and Algorithms
+- 👨🏽‍💻 I’m currently working on [HyperOps Portal];
+- 🌱 I’m currently learning NodeJs , Data Structures and Algorithms
 - 👯 I’m looking to collaborate on Web Dev projects 🤝;
 - 🤔 I’m looking for help with DSA and Backend dev;
 - 💬 Ask me about anything, I am happy to help;
