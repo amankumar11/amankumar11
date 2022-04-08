@@ -39,7 +39,7 @@ Hi, I'm Aman Kumar a Computer science freak. I am a Frontend Web Developer 🚀 
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [HyperOps Portal](https://techfest.org/competitions/hyperops);
+- 👨🏽‍💻 I’m currently working on [E-Adalat](https://github.com/amankumar11/e-court-HackPrinceton);
 - 🌱 I’m currently learning NodeJs , Data Structures and Algorithms
 - 👯 I’m looking to collaborate on Web Dev projects 🤝;
 - 🤔 I’m looking for help with DSA and Backend dev;
