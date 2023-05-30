@@ -33,16 +33,16 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=amankumar11.specter25)
 <br />
 
-Hi, I'm Aman Kumar a Computer science freak. I am a React Developer 🚀 from India. Currently learing Backend Dev and DSA. Technical Secretary [@Owasp-tiet](https://github.com/OWASP-STUDENT-CHAPTER), Tech Team member at [SAIC-TIET](https://github.com/StudentAluminiInteractionCell) and Member of Technical and Software Department in [GirlScript](https://github.com/girlscript) . Beside's programming, I enjoy playing and producing music .
+Hi, I'm Aman Kumar a Computer science freak. I am a Full Stack Web Developer 🚀 from India. Currently exploring Cloud Computing and Devops. Ex-Full Stack Engineer [@prepseed](https://www.linkedin.com/company/prepseed/) & [@pathshala](https://www.linkedin.com/company/pathshalaonweb/). Technical Secretary [@Owasp-tiet](https://github.com/OWASP-STUDENT-CHAPTER), Tech Team member at [SAIC-TIET](https://github.com/StudentAluminiInteractionCell) and Member of Technical and Software Department in [GirlScript](https://github.com/girlscript) . Beside's programming, I enjoy playing and producing music .
 
 <img width="380" align="right" alt="GIF" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"  />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [E-Adalat](https://github.com/amankumar11/e-court-HackPrinceton);
-- 🌱 I’m currently learning Backend Development , Data Structures and Algorithms
+- 🌱 I’m currently learning Cloud Computing & Devops
 - 👯 I’m looking to collaborate on Web Dev projects 🤝;
-- 🤔 I’m looking for help with Backend dev;
+- 🤔 I’m looking for help with Devops;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun Fact: What would life be if we had no courage to attempt anything?
 - 📫 How to reach me: aman.kumar11112001@gmail.com;
