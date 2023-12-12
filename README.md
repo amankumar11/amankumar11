@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=amankumar11.specter25)
 <br />
 
-Hi, I'm Aman Kumar a Computer science freak. I am a Full Stack Web Developer 🚀 from India. Currently exploring Cloud Computing and Devops. Upcoming Software Engineer @SummitTechGrp. Ex-Frontend Engineer [@gamezop](https://www.gamezop.com/), Ex-Full Stack Engineer [@prepseed](https://www.linkedin.com/company/prepseed/) & [@pathshala](https://www.linkedin.com/company/pathshalaonweb/). Technical Secretary [@Owasp-tiet](https://github.com/OWASP-STUDENT-CHAPTER), Tech Team member at [SAIC-TIET](https://github.com/StudentAluminiInteractionCell) and Member of Technical and Software Department in [GirlScript](https://github.com/girlscript) . Beside's programming, I enjoy playing and producing music .
+Hi, I'm Aman Kumar a Computer science freak. I am a Full Stack Web Developer 🚀 from India. Currently exploring Cloud Computing and Devops. Upcoming Software Engineer [@SummitTechGrp](https://thesummitgrp.com/). Ex-Frontend Engineer [@gamezop](https://www.gamezop.com/), Ex-Full Stack Engineer [@prepseed](https://www.linkedin.com/company/prepseed/) & [@pathshala](https://www.linkedin.com/company/pathshalaonweb/). Technical Secretary [@Owasp-tiet](https://github.com/OWASP-STUDENT-CHAPTER), Tech Team member at [SAIC-TIET](https://github.com/StudentAluminiInteractionCell) and Member of Technical and Software Department in [GirlScript](https://github.com/girlscript) . Beside's programming, I enjoy playing and producing music .
 
 <img width="380" align="right" alt="GIF" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"  />
   
