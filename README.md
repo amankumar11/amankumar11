@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Incoming MSCS student @nyu<br>🔭 I’m currently working on [SpendLog](https://spendloglanding.vercel.app/)<br>🌱 I’m currently learning Cloud computing & Backend Dev<br>💬 Ask me about Web, Frontend, Startups<br>⚡ Fun fact - The Firefox logo isn't a fox
+💻 MSCS student @nyu<br>🔭 I’m currently working on [SpendLog](https://spendloglanding.vercel.app/)<br>🌱 I’m currently learning Cloud computing & Backend Dev<br>💬 Ask me about Web, Frontend, Startups<br>⚡ Fun fact - The Firefox logo isn't a fox
 
 
 ## 🌐 Socials:
